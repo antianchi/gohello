@@ -1,7 +1,7 @@
 package test
 
 import (
-	_ "itemdetail/routers"
+	_ "gohello/routers"
 	"net/http"
 	"net/http/httptest"
 	"path/filepath"
